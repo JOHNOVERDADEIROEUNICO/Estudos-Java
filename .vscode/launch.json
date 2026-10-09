@@ -6,9 +6,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppObject",
+            "request": "launch",
+            "mainClass": "AppObject",
+            "projectName": "Estudos-Java_598ecab5"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "${file}", 
+            "mainClass": "${file}",
             "args": "25 Java"
         }
     ]

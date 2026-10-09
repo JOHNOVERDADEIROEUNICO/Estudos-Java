@@ -1,4 +1,4 @@
-public class App {
+public class AppBitwise {
     public static void main(String[] args) throws Exception {
         var value1 = 6;
         var binary1 = Integer.toBinaryString(value1);
