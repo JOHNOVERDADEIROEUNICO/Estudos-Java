@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HerançaEPolimorfismo",
+            "request": "launch",
+            "mainClass": "HerançaEPolimorfismo",
+            "projectName": "Estudos-Java_598ecab5"
+        },
+        {
+            "type": "java",
             "name": "AppObject",
             "request": "launch",
             "mainClass": "AppObject",

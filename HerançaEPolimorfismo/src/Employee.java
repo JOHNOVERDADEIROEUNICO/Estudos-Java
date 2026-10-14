@@ -8,7 +8,7 @@ public class Employee {
 
     private int age;
 
-    private double salary;
+    protected double salary;
 
 
     public String getCode(){

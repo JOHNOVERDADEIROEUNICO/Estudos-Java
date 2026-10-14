@@ -3,7 +3,6 @@ public class Manager extends Employee {
 
     private String password;
 
-    private double commission;
 
     public String getLogin(){
         return login;
@@ -11,10 +10,6 @@ public class Manager extends Employee {
 
     public String getPassword(){
         return password;
-    }
-
-    public double getCommission(){
-        return commission;
     }
 
     public void setLogin(String Login){
@@ -25,7 +20,8 @@ public class Manager extends Employee {
         password = Password;
     }
 
-    public void setCommission(double Commission ){
-        commission = Commission;
+    public void setSalary(double Commission, double Salary ){
+        var de = Commission / 100; 
+        salary = (Salary * de) + Salary;
     }
 }
