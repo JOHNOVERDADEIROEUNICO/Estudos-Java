@@ -14,7 +14,7 @@
  *  - 05_LambdaAvancado         → Composição e currying
  *  - 06_LambdaComparator       → Ordenação com lambdas
  */
-public class App {
+public class OperadorLambdaApp {
     public static void main(String[] args) throws Exception {
         System.out.println("=================================================");
         System.out.println("  ESTUDOS: OPERADOR LAMBDA EM JAVA");
