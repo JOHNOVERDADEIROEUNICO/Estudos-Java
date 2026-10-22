@@ -45,7 +45,7 @@
  *   - ExemplosIteradores.java      → Iterator, ListIterator, forEach
  * ============================================================
  */
-public class App {
+public class CollectionsApp {
     public static void main(String[] args) {
         System.out.println("=== JAVA COLLECTIONS FRAMEWORK ===\n");
         System.out.println("Este projeto contém exemplos educativos sobre:");
