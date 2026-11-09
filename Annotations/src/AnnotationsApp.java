@@ -8,7 +8,7 @@ import exemplos.nativas.ExemploNativas;
 import exemplos.validacao.Usuario;
 import exemplos.validacao.Validador;
 
-public class App {
+public class AnnotationsApp {
     public static void main(String[] args) {
         System.out.println("===============================================================");
         System.out.println("          GUIA PRÁTICO: ANNOTATIONS & REFLECTION EM JAVA       ");
