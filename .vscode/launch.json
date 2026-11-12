@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "one.digitalinnovation.gof.Application",
+            "projectName": "lab-padroes-projeto-spring"
+        },
+        {
+            "type": "java",
             "name": "HerançaEPolimorfismo",
             "request": "launch",
             "mainClass": "HerançaEPolimorfismo",
